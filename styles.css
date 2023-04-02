@@ -1,0 +1,15 @@
+* {
+    background-color: antiquewhite;
+    
+}
+h3{
+    position: relative;
+    text-align: center;
+    padding:10px;
+}
+body div{
+    vertical-align: middle;
+    position: relative;
+    
+    text-align: center;
+}
